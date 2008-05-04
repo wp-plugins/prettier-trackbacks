@@ -7,7 +7,7 @@ Stable tag: trunk
 
 == Description ==
 
-Prettier Trackbacks replaces the "[...]" found at the beginning and end of every trackback in your block for just the "...", or whatever you specify.
+Prettier Trackbacks replaces the "[...]" found at the beginning and end of every trackback in your block for just the "..." or whatever you specify.
 
 == Installation ==
 
